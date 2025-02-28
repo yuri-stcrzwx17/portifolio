@@ -9,7 +9,7 @@ minha primeira página web, criado durante a dociplina de Linguagens de Marcaç�
 *HTML
 *CSS
 *GIT
-Markdowm
+*Markdowm
 
 ## Autor 
 [Yuri Silva](www.linkedin.com)
